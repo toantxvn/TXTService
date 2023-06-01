@@ -1,0 +1,3 @@
+rootProject.name = "TXTService"
+include ':app'
+include ':TXTManager'
